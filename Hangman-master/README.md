@@ -7,8 +7,9 @@
 
 ## git add file/path/that/you/changed or git add . (to grab every changed file.)
 
-## git commit -m ' your message '
+## git commit -m ' your message ' (-m for message)
 
 ## git pull (to get every remote changes)
 
-## git push (to pu local changes)
+## git push (to push local changes)
+
